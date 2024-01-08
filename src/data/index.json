@@ -1,0 +1,46 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/frontend.png",
+        "title": "Front-End",
+        "description": "HTML5/CSS, JavaScript React.js"
+      },
+      {
+        "id": "2",
+        "src": "./img/backend.png",
+        "title": "Back-End",
+        "description": "Python, Java, C, SQL, MongoDB, Node.js"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/SafeSteps.png",
+        "title": "SafeSteps",
+        "description": "A mobile app designed to help distracted students and pedestrians who needs to cross BU campus safely by providing discrete, location-based alerts as they approach in high density road intersections",
+        "link": "View In Github",
+        "stack": "React Native, Expo, Python(Django),FireBase, Figma, Arduino",
+        "url": "https://github.com/mhiga701/safesteps-frontend"
+      },
+      {
+        "id": "2",
+        "src": "./img/harrypotter.png",
+        "title": "Harry Potter's Adventure With GPT2 And LSTM!",
+        "description": "Collaborated in a team of 2 to design two Neural Network models and analyze text generation of Harry Potter Novels between the two models. Utilized the huggingface GPT-2 pre-trained transformer neural network text generation model to finetune text generation for Harry Potter text. Designed a LSTM (Long Short Term Memory) Recurrent Neural Network using PyTorch from scratch to generate Harry Potter text based on the input text",
+        "link": "View In Github",
+        "stack": "Python(PyTorch), Jupyter Notebook",
+        "url": "https://github.com/KitYan20/CS505Project"
+      },
+      {
+        "id": "3",
+        "src": "./img/Spotify.png",
+        "title": "Music/Event Artist Generator",
+        "description": "A simple full stack web app designed for users to type in their music artist and generate a list of songs and events related to a searched artist utilizing Spotify API",
+        "link": "View In Github",
+        "stack": "HTML/CSS, JavaScript, Python(Flask), SQL(MySQL)",
+        "url":"https://github.com/KitYan20/CS411-Music-Playlist"
+
+      }
+    ]
+}
