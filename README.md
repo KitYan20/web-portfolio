@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `sh setup.sh`
+This shell script will install all the necessary dependencies and run the app
+
 ### `npm start`
 
 Runs the app in the development mode.\
