@@ -41,6 +41,16 @@
         "stack": "HTML/CSS, JavaScript, Python(Flask), SQL(MySQL)",
         "url":"https://github.com/KitYan20/CS411-Music-Playlist"
 
+      },
+      {
+        "id": "4",
+        "src": "./img/NYT.png",
+        "title": "Letter Boxed Solver",
+        "description": "A java application capable of solving the New York Times Letter Boxed puzzle game",
+        "link": "View In Github",
+        "stack": "Java",
+        "url":"https://github.com/KitYan20/Letter_Boxed_Solver"
+
       }
     ]
 }
