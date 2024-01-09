@@ -16,7 +16,11 @@ export default function HeroSection() {
                         <br/>
                         I'm looking for Full Time new Graduate Roles.
                         <br/>
-                        Feel free to learn more about me below!
+                        <br/>
+
+                        Feel free to learn more about me below or shoot an email!
+                        <br/>
+                        Email: kityan3002@gmail.com
                     </p>
                 </div>
             </div>
