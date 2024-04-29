@@ -1,5 +1,6 @@
 # Welcome to my Personal Web Portfolio!
-
+## TECH STACK
+-React
 ## Available Scripts
 
 In the project directory, you can run:
