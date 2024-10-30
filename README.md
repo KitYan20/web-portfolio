@@ -12,4 +12,4 @@ This shell script will install all the necessary dependencies and run the app
 ![Description of the image](public/img/website.png)
 
 ### Link for deployment of my website
-https://kits-web-portfolio.netlify.app/
+https://kits-web-portfolio1.netlify.app/
